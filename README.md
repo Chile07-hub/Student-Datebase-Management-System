@@ -12,8 +12,30 @@ The Student Database Management System is a menu-driven console application deve
 6. Update student name, address, and mobile number
 7. Validate student IDs and mobile numbers
 
-Technologies Used
+### Technologies Used
 1. Programming Language: C
 2. Header Files: stdio.h, string.h
 3. Compiler: GCC
 4. Version Control: Git and GitHub
+
+### Concepts
+1. Structures (struct)
+2. Arrays and pointers
+3. Functions
+4. Loops and conditional statements
+5. String handling
+6. Input validation
+
+### Current Limitations
+1. Student records are stored in memory and are not saved after the program exits.
+2. The application supports a maximum of 100 student records.
+3. Email information and file-based storage are not currently implemented.
+
+### Future Improvements
+1. Add file handling to save student records permanently.
+2. Improve validation when updating mobile numbers.
+3. Add email information to student records.
+Searching and sorting algorithms
+
+### Author
+Developed as a C programming practice project to strengthen fundamental programming and problem-solving skills.
