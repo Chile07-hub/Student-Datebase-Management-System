@@ -11,3 +11,9 @@ The Student Database Management System is a menu-driven console application deve
 5. Sort student records by ID using Bubble Sort
 6. Update student name, address, and mobile number
 7. Validate student IDs and mobile numbers
+
+Technologies Used
+1. Programming Language: C
+2. Header Files: stdio.h, string.h
+3. Compiler: GCC
+4. Version Control: Git and GitHub
